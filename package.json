@@ -1,7 +1,7 @@
 {
   "name": "mesto-project-ff",
   "version": "0.0.1",
-  "description": "Сcылка на проект [ttps://github.com/korablev-vm/project-mesto.git](ttps://github.com/korablev-vm/project-mesto.git)",
+  "description": "Сcылка на проект [https://github.com/korablev-vm/mesto-project.git](https://github.com/korablev-vm/mesto-project.git)",
   "main": "index.js",
   "scripts": {
     "build": "rimraf dist && webpack --mode production --config webpack.config.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/korablev-vm/project-mesto.git"
+    "url": "git+https://github.com/korablev-vm/mesto-project.git"
   },
   "author": "Solovev Igor",
   "license": "",
   "bugs": {
-    "url": "ttps://github.com/korablev-vm/project-mesto/issues"
+    "url": "https://github.com/korablev-vm/mesto-project/issues"
   },
-  "homepage": "ttps://github.com/korablev-vm/project-mesto#readme",
+  "homepage": "ttps://github.com/korablev-vm/mesto-project#readme",
   "devDependencies": {
     "@babel/core": "^7.26.0",
     "@babel/preset-env": "^7.26.0",
